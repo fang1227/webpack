@@ -1,0 +1,13 @@
+li {
+    list-style-type:none
+}
+body {
+    color: orange;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    background: url(./src/image/a1d94e0e285c02e4112b3bcc2d29692.jpg) no-repeat;
+    background-size: 100% 100%;
+}
